@@ -2,6 +2,9 @@
 
 A Python script to download and convert YouTube videos or playlists to MP3, embedding metadata and thumbnails.
 
+
+![yt2mp3.png](./yt2mp3.png)
+
 ## Prerequisites
 
 1. **Python 3+**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
